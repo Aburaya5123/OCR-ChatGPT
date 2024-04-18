@@ -1,0 +1,11 @@
+{
+  "credential_path": "",
+  "pb_key": "",
+  "openai_key": "",
+  "sleep_time": 5,
+  "min_drag": 50,
+  "radio_button": 2,
+  "pb_push": 0,
+  "rect_off": 0,
+  "txt_order": "ここに命令を入力。"
+}
