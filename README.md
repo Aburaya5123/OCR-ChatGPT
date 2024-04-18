@@ -15,16 +15,23 @@
 ## OCR-ChatGPT
 
 Windowsスクリーン上で、ドラッグで選択した範囲の画面からテキストを抽出し、ChatGPTに入力するアプリ。  
-入力の際に与える命令も指定することができ、翻訳から回答の作成まで状況に合わせて変更可能。  
+ChatGPTに与える命令も指定することができ、翻訳から回答の作成まで状況に合わせて変更可能。  
 ChatGptからの出力は、ウィンドウで通知、PushBulletへのプッシュ通知、の2択から選択できる。  
-このアプリの最大のメリットは、画像内のテキストに対しても、スクリーン上での範囲選択という簡単な操作でChatGptへのテキスト入力を行える点。  
+**このアプリの最大のメリットは、画像内のテキストに対しても、スクリーン上での範囲選択という簡単な操作でChatGptへのテキスト入力を行える点。**  
 文字の抽出には、GoogleVisionApi、ChatGptへの入力出力には、OpenaiApiを使用。  
 
   
-使用イメージ  ※著作者：<a href="https://jp.freepik.com/free-vector/flat-design-order-sign-template-design_32819551.htm#fromView=search&page=2&position=32&uuid=12975173-1155-4ddb-86dc-0ca1bc099bfd">Freepik</a>
+使用イメージ  
+※著作者：<a href="https://jp.freepik.com/free-vector/flat-design-order-sign-template-design_32819551.htm#fromView=search&page=2&position=32&uuid=12975173-1155-4ddb-86dc-0ca1bc099bfd">Freepik</a>  
 
 <img src="https://github.com/Aburaya5123/OCR-ChatGPT/assets/166899082/c1971c96-54c6-499b-b5d8-90b0ec0a984e" width=395>
 <img src="https://github.com/Aburaya5123/OCR-ChatGPT/assets/166899082/7a056e11-0c91-4501-bc16-d14460c22e21" width=370>
+
+
+https://github.com/Aburaya5123/OCR-ChatGPT/assets/166899082/83466e21-b7dd-4a97-a0cc-b93a92a63a15  
+
+※ Wikipedia - https://en.wikipedia.org/wiki/The_Cask
+
 
 
 ##  使用方法
